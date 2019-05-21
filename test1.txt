@@ -1,2 +1,3 @@
 hello git1
 test add atom text1
+test add atom text2
